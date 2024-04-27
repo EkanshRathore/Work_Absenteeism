@@ -13,7 +13,7 @@
 - Intepreting its Odd Ratios and Coefficients
 - Integrating Model with SQL and Tableau
 
-<img src="C:\Users\Dryunicorn\OneDrive\Documents\Work Absenteeism\Work Absenteeism.png">
+<img src="https://github.com/EkanshRathore/Work_Absenteeism/blob/main/Images/Work%20Absenteeism.png">
 
 ---
 ## About Project
@@ -97,8 +97,8 @@ No Null Values Present in the Dataframe
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
 
-<img src="C:\Users\Dryunicorn\OneDrive\Documents\Work Absenteeism\Graph1.png">
-<img src="C:\Users\Dryunicorn\OneDrive\Documents\Work Absenteeism\Graph2.png">
+<img src="https://github.com/EkanshRathore/Work_Absenteeism/blob/main/Images/Graph1.png">
+<img src="https://github.com/EkanshRathore/Work_Absenteeism/blob/main/Images/Graph2.png">
 
 ---
 ## Model Building
